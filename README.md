@@ -1,7 +1,6 @@
 ### I guess you can add readme to ur profile now? lol
 
 [![Discord](https://img.shields.io/discord/574515541407039511?color=informational&label=discord)](https://discord.gg/9rMhGaF)
-![YouTube](https://img.shields.io/https://www.youtube.com/channel/UCOx7ZjwE4tWE4QpR_EyNZ6g?label=YouTube&style=social)
 
 <!--
 **jaylac2000/jaylac2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
